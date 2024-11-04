@@ -1,0 +1,4 @@
+grant codeBase "file:/home/alumno/Escritorio/calculadora"
+{
+permission java.security.AllPermission;
+};
